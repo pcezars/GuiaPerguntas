@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  },
+  "name": "guiaperguntas",
+  "version": "1.0.0",
+  "description": "Uma plataforma de perguntas e respostas estilo Yahoo perguntas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcezars/guiarespostas.git"
+  },
+  "author": "Paulo Cezar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pcezars/guiarespostas/issues"
+  },
+  "homepage": "https://github.com/pcezars/guiarespostas#readme"
+}
